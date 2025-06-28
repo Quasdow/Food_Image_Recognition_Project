@@ -1,4 +1,4 @@
-# Food_Image_Recognition_Project
+# Food Image Recognition Project
 A deep learning-based food image recognition system using the InceptionV3 model on the Food-101 dataset, integrated into a Flask and Streamlit web application for real-time food classification and nutritional analysis. The project achieves a validation accuracy of 83.55% and a test accuracy of 83.06%, with an average inference time of 0.0205 seconds per image.
 
 ## Project Overview
@@ -55,10 +55,8 @@ Extract and place in data/train/, data/test/, and data/validation/.
 ```
 
 **4. Download the trained model:**
-```
-Download best_model_101class.hdf5 from Google Drive.
-Place in models/.
-```
+Download best_model_101class.hdf5 from [Google Drive](https://drive.google.com/file/d/1DxRWp_bq3B_BJWjfcy_p3exUqS_c3KL0/view?usp=drive_link).
+
 
 **5. Configure environment variables:**
 
